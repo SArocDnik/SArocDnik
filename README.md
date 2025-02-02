@@ -1,6 +1,6 @@
 ## 🌸 Hello Hello 🌸
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif](https://github.com/SArocDnik/SArocDnik/blob/main/tumblr_1bd2515e4e7af1f8e24c87afbdeaf44e_4aba26a2_540.gif)">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/SArocDnik/SArocDnik/blob/main/tumblr_1bd2515e4e7af1f8e24c87afbdeaf44e_4aba26a2_540.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 ### - 🌱 Welcome to my GitHub page. I'm currently an Highschool student, majoring in IT. I also do Competitive Programming and random project.
 ### - 📫 Proficient in VI/EN.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/SArocDnik/SArocDnik/blob/main/tumblr_4c2fb81bb9ff0b9077802d5db75f63a4_2af9e0b1_640.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
